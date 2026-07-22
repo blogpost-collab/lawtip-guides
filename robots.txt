@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blogpost-collab.github.io/lawtip-guides/sitemap.xml
